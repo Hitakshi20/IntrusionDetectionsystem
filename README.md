@@ -41,5 +41,5 @@ This project leverages machine learning techniques to build a robust Intrusion D
    pip install all required libraries
 2.**Run the Code:**
   ```bash
-  jupyter notebook notebooks/IntrusionDetectionSystems.ipynb
+  jupyter notebook notebooks/IntrusionDetectionsystems.ipynb
 
