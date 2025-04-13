@@ -36,7 +36,7 @@ This project leverages machine learning techniques to build a robust Intrusion D
 ### Steps to Run the Project
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/TejashreeBetgar/IntrusionDetectionSystem.git
+   git clone https://github.com/Hitakshi20/IntrusionDetectionsystem.git
    cd IntrusionDetectionSystem
    pip install all required libraries
 2.**Run the Code:**
